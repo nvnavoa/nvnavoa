@@ -1,4 +1,13 @@
-## Hi there 👋
+# Spatial Data Scientist
+Welcome to my Spatial Science Portfolio!
+
+### Education
+- IV BS Geodetic Engineering Student, University of the Philippines - Diliman
+
+### Work Experience
+- 2024, Intern - Philippine Space Agency
+
+### Projects
 
 <!--
 **nvnavoa/nvnavoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
