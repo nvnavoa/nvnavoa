@@ -34,6 +34,3 @@ style:
   primary_color: "#0056b3"
   secondary_color: "#ffffff"
   background_color: "#f8f9fa"
-
-exclude:
-  - README.md
