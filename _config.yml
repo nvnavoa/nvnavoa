@@ -1,8 +1,8 @@
 name: Nathaniel Navoa Portfolio
-url: "https://github.com/nvnavoa"
+url: "https://github.com/nvnavoa" 
 
-# Theme settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+# Use GitHub Pages compatible theme
+theme: jekyll-theme-primer 
 
 # SEO and appearance
 title: "Nathaniel Navoa | Spatial Data Scientist"
