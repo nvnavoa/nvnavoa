@@ -1,7 +1,7 @@
 name: Nathaniel Navoa Portfolio
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes # Ensure you use this remote theme for a professional design
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 # SEO and appearance
 title: "Nathaniel Navoa | Spatial Data Scientist"
@@ -21,7 +21,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
 
 # Theme customizations
 display:
