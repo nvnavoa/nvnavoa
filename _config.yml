@@ -1,7 +1,6 @@
 name: Nathaniel Navoa Portfolio
 
 # Theme settings
-theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes # Ensure you use this remote theme for a professional design
 
 # SEO and appearance
