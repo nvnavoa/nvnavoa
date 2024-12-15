@@ -1,4 +1,5 @@
 name: Nathaniel Navoa Portfolio
+url: "https://github.com/nvnavoa" # The base hostname & protocol for your site
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -10,7 +11,7 @@ description: "Explore my portfolio showcasing my expertise in spatial science, g
 # Social Links
 social_links:
   - name: email
-    url: nvnavoa@up.edu.p
+    url: nvnavoa@up.edu.ph
     icon: fas fa-envelope
   - name: github
     url: https://github.com/nvnavoa
