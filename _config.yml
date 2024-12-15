@@ -1,5 +1,5 @@
 name: Nathaniel Navoa Portfolio
-url: "https://github.com/nvnavoa" # The base hostname & protocol for your site
+url: "https://github.com/nvnavoa"
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -31,6 +31,6 @@ display:
 
 # Styling options
 style:
-  primary_color: "#0056b3" # A professional blue color
-  secondary_color: "#ffffff" # Clean white
-  background_color: "#f8f9fa" # Light gray background
+  primary_color: "#0056b3"
+  secondary_color: "#ffffff"
+  background_color: "#f8f9fa"
