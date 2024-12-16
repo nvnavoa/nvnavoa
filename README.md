@@ -1,5 +1,4 @@
-# Spatial Data Scientist
-Welcome to my Spatial Science Portfolio!
+# Welcome to my Spatial Science Portfolio!
 
 ### Education
 - IV BS Geodetic Engineering Student, University of the Philippines - Diliman
