@@ -2,7 +2,7 @@ name: Nathaniel Navoa Portfolio
 url: "https://github.com/nvnavoa" 
 
 # Use GitHub Pages compatible theme
-theme: jekyll-theme-midnight 
+theme: jekyll-theme-dinky 
 
 # SEO and appearance
 title: "Nathaniel Navoa"
