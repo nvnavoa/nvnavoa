@@ -8,12 +8,13 @@ Welcome to my Spatial Science Portfolio!
 - 2024, Intern - Philippine Space Agency
 
 ### Projects
-- Emergency LifeLINES: Evaluating Infrastructure Disruptions on Hospital and Evacuation Center Access using Isochrone and Centrality Analysis 
+-[GIS-based Spatiotemporal Analysis of Fire Incidents in Quezon City from June 2022 to May 2023] (https://drive.google.com/file/d/1kP4zPdxd_EjRCMV3pMjZBpp_OmQxTyQc/view?usp=sharing)
+- [Byaheng Late: Evaluating University Accessibility and Road Disruption using Isochrone and Centrality Analysis] (https://www.canva.com/design/DAGZYL1Hw_g/FHmPDcsr_6LX6a1S-jqmsg/edit?fbclid=IwY2xjawHMogFleHRuA2FlbQIxMAABHbfVkKJeBavkFqqoqQLMmG9Nb7mjRiMujsvTC8lck_EGAM-g9-pqndUuMg_aem_DGBDr4iJFJzJuwaYLnF3ag) 
 
 ### Hobbies and Interests
 - 🔭 I’m currently working on developing a time series model to monitor illegal dumping using remote sensing and machine learning
 - 🌱 I’m currently learning GitHub basics and Python programming
 - 👯 I’m looking to collaborate on environmental science projects and programs
 - 💬 Ask me about geodetic engineering!
-- 📫 How to reach me: Email - nvnavoa@up.edu.ph
+- 📫 How to reach me: [Email] (nvnavoa@up.edu.ph)
 
