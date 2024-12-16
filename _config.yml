@@ -2,10 +2,10 @@ name: Nathaniel Navoa Portfolio
 url: "https://github.com/nvnavoa" 
 
 # Use GitHub Pages compatible theme
-remote-theme: jekyll-theme-minimal 
+theme: jekyll-theme-midnight 
 
 # SEO and appearance
-title: "Nathaniel Navoa | Spatial Data Scientist"
+title: "Nathaniel Navoa"
 description: "Explore my portfolio showcasing my expertise in spatial science, geodetic engineering, and remote sensing."
 
 # Social Links
@@ -22,7 +22,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Theme customizations
 display:
@@ -31,7 +30,7 @@ display:
   author_profile: true
 
 # Styling options
-style:
-  primary_color: "#0056b3"
-  secondary_color: "#ffffff"
-  background_color: "#f8f9fa"
+#style:
+  #primary_color: "#0056b3"
+  #secondary_color: "#ffffff"
+  #background_color: "#f8f9fa"
