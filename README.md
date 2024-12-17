@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on developing a time series model to monitor illegal dumping using remote sensing and machine learning
 - 🌱 I’m currently learning GitHub basics and Python programming
 - 👯 I’m looking to collaborate on environmental science projects and programs
-- 💬 Ask me about geodetic engineering!
+- 💬 Ask me about Geodetic Engineering!
 - 📫 How to reach me:
 [Email](nvnavoa@up.edu.ph)
 
