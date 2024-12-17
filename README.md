@@ -1,7 +1,7 @@
 # Welcome to my Spatial Science Portfolio!
 
 ### Education
-- 2021-2025 - BS Geodetic Engineering, University of the Philippines - Diliman
+- 2021 - 2025 BS Geodetic Engineering, University of the Philippines - Diliman
 
 ### Work Experience
 - 2024, Intern - Philippine Space Agency
