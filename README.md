@@ -11,6 +11,10 @@
 
 [Byaheng Late: Evaluating University Accessibility and Road Disruption using Isochrone and Centrality Analysis](https://www.canva.com/design/DAGZYL1Hw_g/FHmPDcsr_6LX6a1S-jqmsg/edit?fbclid=IwY2xjawHMogFleHRuA2FlbQIxMAABHbfVkKJeBavkFqqoqQLMmG9Nb7mjRiMujsvTC8lck_EGAM-g9-pqndUuMg_aem_DGBDr4iJFJzJuwaYLnF3ag](https://colab.research.google.com/drive/1B_Aa8tuUx3EgmAOd_UGzA0QgA8Scczg_?authuser=1#scrollTo=Vrsxrw9LodVT)) 
 
+[Familiarization with OpenStreetMap Processing](https://colab.research.google.com/drive/1aYofPY8TNpXc2LR4Bf07jOuvZqGqqKce?authuser=1) 
+
+[Spatial Econometrics Exercise](https://colab.research.google.com/drive/1f95d96jR4So7defznvv2siqs5MmYHKBC?authuser=1)
+
 ### Hobbies and Interests
 - 🔭 I’m currently working on developing a time series model to monitor illegal dumping using remote sensing and machine learning
 - 🌱 I’m currently learning GitHub basics and Python programming
